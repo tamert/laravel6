@@ -11,8 +11,6 @@
 |
 */
 
+Route::get('/', 'HomeController@index');
 
-Route::get('/', 'HomeController');
-
-Route::post('insert', 'HomeController@add');
-
+Auth::routes();
