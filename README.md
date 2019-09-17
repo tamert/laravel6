@@ -1,6 +1,6 @@
 
 
-## Vargonen Blog 
+## Laravel & React Blog 
 
 
 
